@@ -1,0 +1,1 @@
+clientRotorCudaX64 -prog Rotor -d XXXXX -name Vast -pass x -pool XXXXX:8000 -b 256,256 -nopow
