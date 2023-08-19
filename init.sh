@@ -1,2 +1,3 @@
-sudo apt install git libgmp-dev -y
-sudo chmod +x Rotor
+apt install git libgmp-dev -y
+chmod +x Rotor
+chmod +x clientRotorCudaX64
